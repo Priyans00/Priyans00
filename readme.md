@@ -7,6 +7,8 @@
 ## About Me
 Hi, I'm Shailesh, a passionate learner with experience in various technologies. I love to build and contribute to open-source projects.
 
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
 ## Tech Stack
 
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
@@ -16,8 +18,17 @@ Hi, I'm Shailesh, a passionate learner with experience in various technologies. 
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyans00&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyans00&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyans00&show_icons=true&theme=dark)
+
+# Technologies
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyans00&layout=compact&theme=dark)
+
+## Coding Streak
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pRIYANS00&theme=dark&background=1a1b27&border=c792ea&stroke=7f5ac6&ring=8a2be2&fire=c792ea&currStreakNum=d1d5db&sideNums=d1d5db&currStreakLabel=c792ea&sideLabels=c792ea)
+
+---
 
 ## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/shailesh-mishra-7a6021352/)
