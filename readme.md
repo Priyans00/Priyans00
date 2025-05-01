@@ -28,6 +28,8 @@ Hi, I'm Shailesh, a passionate learner with experience in various technologies. 
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=pRIYANS00&theme=dark&background=1a1b27&border=c792ea&stroke=7f5ac6&ring=8a2be2&fire=c792ea&currStreakNum=d1d5db&sideNums=d1d5db&currStreakLabel=c792ea&sideLabels=c792ea)
 
+# Activity Graph
+
 [![Priyans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyans00&theme=github-compact)](https://github.com/Priyans00/github-readme-activity-graph)
 
 ---
