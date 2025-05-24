@@ -89,4 +89,3 @@
 
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-![Tower Defense](https://raw.githubusercontent.com/priyans00/github-tower-defense/main/github-contribution-grid-tower-defense.svg)
