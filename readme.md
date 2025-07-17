@@ -1,4 +1,3 @@
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 <p align="center">
   <h1 align="center"> Welcome To My Github Profile !!</h1>
 </p>
@@ -16,7 +15,6 @@
 
 <!-- TEch Stack-->
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="30">&nbsp; ***Skills***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <table width="100%">
 <tr>
@@ -55,7 +53,6 @@
 
 <!-- Github Stats -->
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">&nbsp;***Github Stats***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <p align="center">
 <table align="center">  
@@ -73,19 +70,17 @@
 <br>
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmdmdDM1cmJwb2hxMHd1bDN4YjljYWJqdHFmNW5ucXk2ejBlbms3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dtB7kgF86VwZWY5Iee/giphy.gif" width="35">&nbsp;***Activity Graph***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 [![Priyans's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Priyans00&theme=github-compact)](https://github.com/Priyans00/github-readme-activity-graph)
 <br>
 <br>
 
 <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeTVxYjg5bGNmODF6bzJjYWVpajdleWwzaGhvcDVleHpoZXg2ZG41NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/b8yN3aUkspAQ56Sa9T/giphy.gif" width="35">&nbsp;***Contact Me***
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <br>
 <a href="https://www.linkedin.com/in/shailesh-mishra-7a6021352/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 <a href="https://mailto:priyans1532@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 <br>
 <br>
 
-<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 
